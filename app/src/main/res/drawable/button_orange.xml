@@ -1,0 +1,5 @@
+<!-- res/drawable/button_white.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFA500"/> <!-- اللون لبرتقالى للخلفية -->
+    <corners android:radius="36dp"/> <!-- جعل الأزرار دائرية مع تحديد نصف القطر -->
+</shape>
