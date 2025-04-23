@@ -17,7 +17,7 @@ A sleek and modern **Calculator UI** application built using XML in Android Stud
 ---
 
 ## 📸 Screenshots
- !(app/src/main/res/drawable/output.png)
+ ![Calculator UI](app/src/main/res/drawable/output.png)
 ---
 
 ## ⚙️ Installation
